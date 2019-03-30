@@ -2,7 +2,7 @@
 % Please edit documentation in R/read_parquet.R
 \name{read_parquet}
 \alias{read_parquet}
-\title{Read a parquet file as an R dataframe via pandas read_parquet}
+\title{Read a parquet file as an R dataframe}
 \usage{
 read_parquet(file)
 }

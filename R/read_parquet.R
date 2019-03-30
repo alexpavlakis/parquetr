@@ -1,4 +1,4 @@
-#' Read a parquet file as an R dataframe via pandas read_parquet
+#' Read a parquet file as an R dataframe
 #'
 #' This function allows you to read a parquet file as an R data frame.
 #' @param path The parquet file path

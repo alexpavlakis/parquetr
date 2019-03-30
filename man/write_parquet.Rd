@@ -2,7 +2,7 @@
 % Please edit documentation in R/write_parquet.R
 \name{write_parquet}
 \alias{write_parquet}
-\title{Writee a parquet file from R dataframe via pandas write_parquet}
+\title{Write a parquet file from R dataframe via pandas write_parquet}
 \usage{
 write_parquet(dd, file)
 }
@@ -12,6 +12,6 @@ write_parquet(dd, file)
 \item{path}{A character string naming a filepath}
 }
 \description{
-This function allows you to write a parquet file as an R data frame.
+This function allows you to write a parquet file from an R data frame.
 }
 \keyword{parquet}

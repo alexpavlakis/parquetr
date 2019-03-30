@@ -1,6 +1,6 @@
-#' Writee a parquet file from R dataframe via pandas write_parquet
+#' Write a parquet file from R dataframe via pandas write_parquet
 #'
-#' This function allows you to write a parquet file as an R data frame.
+#' This function allows you to write a parquet file from an R data frame.
 #' @param dd A data frame
 #' @param path A character string naming a filepath
 #' @keywords parquet
