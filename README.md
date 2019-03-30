@@ -3,7 +3,7 @@
 parquetr
 ========
 
-The goal of parquetr is to let you read parquet files into R without using a spark connection. At present it is the simplest version from getting the job done (a wrapper for pandas read\_parquet through reticulate) but hopefully will improve and expand in the future.
+The goal of parquetr is to let you read and write parquet files with R without a spark connection. At present it is simply a wrapper for pandas `read_parquet` and `to_parquet` via reticulate, but hopefully will improve and expand in the future.
 
 Installation
 ------------
